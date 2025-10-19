@@ -15,7 +15,7 @@
     },
     "./dist/index.css": "./dist/index.css"
   },
-  "homepage": "https://github.com/code-matic/openCDP-editor",
+  "homepage": ".",
   "keywords": [
     "React",
     "Rich Text Editor",

@@ -290,7 +290,6 @@ function TextEditor({ onChange, bodyHTML, fullHTML, className }: TextEditorProps
       />
       </div>
 
-      
       <Editor ref={editorRef} />
     </div>
   );
